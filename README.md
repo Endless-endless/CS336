@@ -4,11 +4,11 @@ My coursework and implementation notes for Stanford CS336.
 
 ## Assignments
 
-- [Assignment 1 — Basics](你的 assignment1 GitHub 链接)
-- [Assignment 2 — Systems](你的 assignment2 GitHub 链接)
-- [Assignment 3 — Scaling](你的 assignment3 GitHub 链接)
-- [Assignment 4 — Data](你的 assignment4 GitHub 链接)
-- [Assignment 5 — Alignment](你的 assignment5 GitHub 链接)
+- [Assignment 1 — Basics](https://github.com/Endless-endless/CS336-Assignment1-Basics)
+- [Assignment 2 — Systems](https://github.com/Endless-endless/CS336-Assignment2-Systems)
+- [Assignment 3 — Scaling](https://github.com/Endless-endless/CS336-Assignment3-Scaling)
+- [Assignment 4 — Data](https://github.com/Endless-endless/CS336-Assignment4-Data)
+- [Assignment 5 — Alignment](https://github.com/Endless-endless/CS336-Assignment5-Alignment)
 
 ## Progress
 
